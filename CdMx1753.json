@@ -1,0 +1,1031 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "id" : "id",
+    "code" : "code",
+    "Descrip" : "Descrip",
+    "POINT_X" : "POINT_X",
+    "POINT_Y" : "POINT_Y"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "id",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "id"
+    },
+    {
+      "name" : "code",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "code"
+    },
+    {
+      "name" : "Descrip",
+      "type" : "esriFieldTypeString",
+      "alias" : "Descrip",
+      "length" : 30
+    },
+    {
+      "name" : "POINT_X",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_X"
+    },
+    {
+      "name" : "POINT_Y",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_Y"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "id" : 12,
+        "code" : 0,
+        "Descrip" : "Santo Domingo",
+        "POINT_X" : -99.133825157800004,
+        "POINT_Y" : 19.438805134999999
+      },
+      "geometry" : {
+        "x" : -99.13382515780188,
+        "y" : 19.438805134974942
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "id" : 66,
+        "code" : 0,
+        "Descrip" : "Colegio de San Idelfonso",
+        "POINT_X" : -99.1302536476,
+        "POINT_Y" : 19.4368089737
+      },
+      "geometry" : {
+        "x" : -99.130253647557225,
+        "y" : 19.436808973659957
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "id" : 22,
+        "code" : 0,
+        "Descrip" : "San Gregorio",
+        "POINT_X" : -99.127869043999993,
+        "POINT_Y" : 19.436323420899999
+      },
+      "geometry" : {
+        "x" : -99.127869044040409,
+        "y" : 19.436323420907662
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "id" : 32,
+        "code" : 0,
+        "Descrip" : "Encarnacion",
+        "POINT_X" : -99.132821682100001,
+        "POINT_Y" : 19.437272946299998
+      },
+      "geometry" : {
+        "x" : -99.1328216821138,
+        "y" : 19.437272946289927
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "id" : 4,
+        "code" : 0,
+        "Descrip" : "Ynquisicion",
+        "POINT_X" : -99.132918792699996,
+        "POINT_Y" : 19.438405902700001
+      },
+      "geometry" : {
+        "x" : -99.132918792664256,
+        "y" : 19.438405902711946
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "id" : 33,
+        "code" : 0,
+        "Descrip" : "San Lorenzo",
+        "POINT_X" : -99.138130392199997,
+        "POINT_Y" : 19.439333848
+      },
+      "geometry" : {
+        "x" : -99.138130392205554,
+        "y" : 19.439333847971884
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "id" : 26,
+        "code" : 0,
+        "Descrip" : "Belemitas",
+        "POINT_X" : -99.138518834400003,
+        "POINT_Y" : 19.4362586805
+      },
+      "geometry" : {
+        "x" : -99.138518834407378,
+        "y" : 19.436258680540689
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "id" : 3,
+        "code" : 0,
+        "Descrip" : "Cathedral",
+        "POINT_X" : -99.1319056504,
+        "POINT_Y" : 19.434491085200001
+      },
+      "geometry" : {
+        "x" : -99.131905650449696,
+        "y" : 19.434491085182273
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "id" : 2,
+        "code" : 0,
+        "Descrip" : "Palacio Arzobispado",
+        "POINT_X" : -99.130979021200005,
+        "POINT_Y" : 19.433679181500001
+      },
+      "geometry" : {
+        "x" : -99.130979021249701,
+        "y" : 19.433679181502271
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "id" : 73,
+        "code" : 0,
+        "Descrip" : "Alameda",
+        "POINT_X" : -99.143132083599994,
+        "POINT_Y" : 19.4356613064
+      },
+      "geometry" : {
+        "x" : -99.143132083605465,
+        "y" : 19.435661306437616
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "id" : 45,
+        "code" : 0,
+        "Descrip" : "Corpus Christi",
+        "POINT_X" : -99.144891310000006,
+        "POINT_Y" : 19.435230778499999
+      },
+      "geometry" : {
+        "x" : -99.144891310007978,
+        "y" : 19.435230778457253
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "id" : 23,
+        "code" : 0,
+        "Descrip" : "San Juan de Dios",
+        "POINT_X" : -99.144334592800007,
+        "POINT_Y" : 19.4375170305
+      },
+      "geometry" : {
+        "x" : -99.144334592791992,
+        "y" : 19.437517030490913
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "id" : 44,
+        "code" : 0,
+        "Descrip" : "Santa Ysabel",
+        "POINT_X" : -99.142078032300006,
+        "POINT_Y" : 19.435394082199998
+      },
+      "geometry" : {
+        "x" : -99.142078032343193,
+        "y" : 19.435394082173943
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "id" : 77,
+        "code" : 0,
+        "Descrip" : "Arcos",
+        "POINT_X" : -99.141395125900004,
+        "POINT_Y" : 19.436299675499999
+      },
+      "geometry" : {
+        "x" : -99.141395125891577,
+        "y" : 19.43629967551195
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "id" : 9,
+        "code" : 0,
+        "Descrip" : "Santa Veracruz",
+        "POINT_X" : -99.143800144300002,
+        "POINT_Y" : 19.437806523399999
+      },
+      "geometry" : {
+        "x" : -99.143800144264645,
+        "y" : 19.437806523443228
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "id" : 24,
+        "code" : 0,
+        "Descrip" : "San Ypolito",
+        "POINT_X" : -99.148224190400001,
+        "POINT_Y" : 19.438296434600002
+      },
+      "geometry" : {
+        "x" : -99.148224190407689,
+        "y" : 19.438296434593301
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "id" : 15,
+        "code" : 0,
+        "Descrip" : "San Diego",
+        "POINT_X" : -99.148283573599997,
+        "POINT_Y" : 19.437101348300001
+      },
+      "geometry" : {
+        "x" : -99.148283573577388,
+        "y" : 19.437101348302978
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "id" : 64,
+        "code" : 0,
+        "Descrip" : "Santo Calvario",
+        "POINT_X" : -99.150436213500001,
+        "POINT_Y" : 19.436633705799998
+      },
+      "geometry" : {
+        "x" : -99.15043621347921,
+        "y" : 19.436633705841547
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "id" : 63,
+        "code" : 0,
+        "Descrip" : "San Fernando",
+        "POINT_X" : -99.150451059299996,
+        "POINT_Y" : 19.439513789599999
+      },
+      "geometry" : {
+        "x" : -99.150451059271646,
+        "y" : 19.439513789572263
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "id" : 75,
+        "code" : 0,
+        "Descrip" : "Belen",
+        "POINT_X" : -99.1475783984,
+        "POINT_Y" : 19.426701870700001
+      },
+      "geometry" : {
+        "x" : -99.147578398437162,
+        "y" : 19.426701870708307
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "id" : 58,
+        "code" : 0,
+        "Descrip" : "Belen de [ilegible]",
+        "POINT_X" : -99.145670714100007,
+        "POINT_Y" : 19.426501452499998
+      },
+      "geometry" : {
+        "x" : -99.145670714110366,
+        "y" : 19.42650145251055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "id" : 43,
+        "code" : 0,
+        "Descrip" : "San Juan de la Penitencia",
+        "POINT_X" : -99.144200980700006,
+        "POINT_Y" : 19.429804641299999
+      },
+      "geometry" : {
+        "x" : -99.144200980660173,
+        "y" : 19.429804641325415
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "id" : 28,
+        "code" : 0,
+        "Descrip" : "Rexina",
+        "POINT_X" : -99.138670923000006,
+        "POINT_Y" : 19.427562926699999
+      },
+      "geometry" : {
+        "x" : -99.138670922981362,
+        "y" : 19.42756292666904
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "id" : 53,
+        "code" : 0,
+        "Descrip" : "Monserrate",
+        "POINT_X" : -99.137735638099997,
+        "POINT_Y" : 19.425202445699998
+      },
+      "geometry" : {
+        "x" : -99.137735638058501,
+        "y" : 19.425202445673246
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "id" : 7,
+        "code" : 0,
+        "Descrip" : "San Miguel",
+        "POINT_X" : -99.133823771799996,
+        "POINT_Y" : 19.425284097500001
+      },
+      "geometry" : {
+        "x" : -99.133823771754152,
+        "y" : 19.425284097531591
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "id" : 52,
+        "code" : 0,
+        "Descrip" : "Jesus Nazareno",
+        "POINT_X" : -99.133756965700002,
+        "POINT_Y" : 19.428565017699999
+      },
+      "geometry" : {
+        "x" : -99.133756965688235,
+        "y" : 19.428565017657821
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "id" : 57,
+        "code" : 0,
+        "Descrip" : "San Pablo",
+        "POINT_X" : -99.129897059699999,
+        "POINT_Y" : 19.424749648999999
+      },
+      "geometry" : {
+        "x" : -99.129897059657381,
+        "y" : 19.424749649004241
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "id" : 35,
+        "code" : 0,
+        "Descrip" : "San Joseph de Gracia",
+        "POINT_X" : -99.131322255699999,
+        "POINT_Y" : 19.4271175529
+      },
+      "geometry" : {
+        "x" : -99.131322255730311,
+        "y" : 19.427117552896249
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "id" : 18,
+        "code" : 0,
+        "Descrip" : "La Merced",
+        "POINT_X" : -99.128130410400004,
+        "POINT_Y" : 19.4294557652
+      },
+      "geometry" : {
+        "x" : -99.128130410358651,
+        "y" : 19.4294557652034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "id" : 68,
+        "code" : 0,
+        "Descrip" : "Colegio de San Roman",
+        "POINT_X" : -99.129807984899998,
+        "POINT_Y" : 19.4288322419
+      },
+      "geometry" : {
+        "x" : -99.129807984902826,
+        "y" : 19.428832241921491
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "id" : 29,
+        "code" : 0,
+        "Descrip" : "Bolvonera",
+        "POINT_X" : -99.130260781600001,
+        "POINT_Y" : 19.428921316699999
+      },
+      "geometry" : {
+        "x" : -99.130260781571835,
+        "y" : 19.42892131667605
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "id" : 6,
+        "code" : 0,
+        "Descrip" : "Real Unibersidad",
+        "POINT_X" : -99.130973379599993,
+        "POINT_Y" : 19.430554353800002
+      },
+      "geometry" : {
+        "x" : -99.130973379608292,
+        "y" : 19.43055435384295
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "id" : 13,
+        "code" : 0,
+        "Descrip" : "Porta Celi",
+        "POINT_X" : -99.131700823399996,
+        "POINT_Y" : 19.4301015572
+      },
+      "geometry" : {
+        "x" : -99.131700823437185,
+        "y" : 19.430101557173945
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "id" : 30,
+        "code" : 0,
+        "Descrip" : "Jesus Maria",
+        "POINT_X" : -99.128286291199998,
+        "POINT_Y" : 19.431088802400001
+      },
+      "geometry" : {
+        "x" : -99.128286291179123,
+        "y" : 19.431088802370301
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "id" : 10,
+        "code" : 0,
+        "Descrip" : "Santa Cruz",
+        "POINT_X" : -99.121405266400004,
+        "POINT_Y" : 19.430877249800002
+      },
+      "geometry" : {
+        "x" : -99.121405266389473,
+        "y" : 19.430877249828221
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "id" : 60,
+        "code" : 0,
+        "Descrip" : "San Lazaro",
+        "POINT_X" : -99.120410598299998,
+        "POINT_Y" : 19.431523041799998
+      },
+      "geometry" : {
+        "x" : -99.120410598296914,
+        "y" : 19.431523041798769
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "id" : 46,
+        "code" : 0,
+        "Descrip" : "Santisima Trinidad",
+        "POINT_X" : -99.126705214300003,
+        "POINT_Y" : 19.432814625700001
+      },
+      "geometry" : {
+        "x" : -99.126705214285693,
+        "y" : 19.432814625739862
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "id" : 38,
+        "code" : 0,
+        "Descrip" : "Santa Theresa la Nueba",
+        "POINT_X" : -99.127729574,
+        "POINT_Y" : 19.435820898700001
+      },
+      "geometry" : {
+        "x" : -99.127729573963094,
+        "y" : 19.435820898706201
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "id" : 20,
+        "code" : 0,
+        "Descrip" : "San Pedro y San Pablo",
+        "POINT_X" : -99.128598052800001,
+        "POINT_Y" : 19.4364963823
+      },
+      "geometry" : {
+        "x" : -99.128598052820038,
+        "y" : 19.436496382261602
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "id" : 50,
+        "code" : 0,
+        "Descrip" : "Amor de Dios",
+        "POINT_X" : -99.128427326199997,
+        "POINT_Y" : 19.433104118700001
+      },
+      "geometry" : {
+        "x" : -99.128427326207131,
+        "y" : 19.433104118692174
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "id" : 34,
+        "code" : 0,
+        "Descrip" : "Santa Ynes",
+        "POINT_X" : -99.129087964000007,
+        "POINT_Y" : 19.433311959800001
+      },
+      "geometry" : {
+        "x" : -99.129087963970107,
+        "y" : 19.433311959786145
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "id" : 11,
+        "code" : 0,
+        "Descrip" : "San Sebastian",
+        "POINT_X" : -99.127640499199998,
+        "POINT_Y" : 19.438864286200001
+      },
+      "geometry" : {
+        "x" : -99.127640499208525,
+        "y" : 19.438864286153603
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "id" : 17,
+        "code" : 0,
+        "Descrip" : "Carmel",
+        "POINT_X" : -99.128494132300006,
+        "POINT_Y" : 19.440913005500001
+      },
+      "geometry" : {
+        "x" : -99.128494132273033,
+        "y" : 19.440913005508442
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "id" : 8,
+        "code" : 0,
+        "Descrip" : "Santa Catarina Martir",
+        "POINT_X" : -99.132688068600004,
+        "POINT_Y" : 19.442108091800002
+      },
+      "geometry" : {
+        "x" : -99.132688068633513,
+        "y" : 19.442108091798762
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "id" : 55,
+        "code" : 0,
+        "Descrip" : "Santiago Tlatilulco",
+        "POINT_X" : -99.138099359999998,
+        "POINT_Y" : 19.448031563000001
+      },
+      "geometry" : {
+        "x" : -99.138099359972898,
+        "y" : 19.44803156297688
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "id" : 27,
+        "code" : 0,
+        "Descrip" : "Consepcion",
+        "POINT_X" : -99.139702705600001,
+        "POINT_Y" : 19.439205739399998
+      },
+      "geometry" : {
+        "x" : -99.139702705554967,
+        "y" : 19.4392057393794
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "id" : 74,
+        "code" : 0,
+        "Descrip" : "Alcaiceria",
+        "POINT_X" : -99.133979652600004,
+        "POINT_Y" : 19.434173015700001
+      },
+      "geometry" : {
+        "x" : -99.133979652574624,
+        "y" : 19.434173015746858
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "id" : 19,
+        "code" : 0,
+        "Descrip" : "Casa Profesa",
+        "POINT_X" : -99.136377248100004,
+        "POINT_Y" : 19.434083941000001
+      },
+      "geometry" : {
+        "x" : -99.136377248051488,
+        "y" : 19.434083940992299
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "id" : 1,
+        "code" : 0,
+        "Descrip" : "Real Palacio",
+        "POINT_X" : -99.131856704300006,
+        "POINT_Y" : 19.433111541599999
+      },
+      "geometry" : {
+        "x" : -99.131856704257657,
+        "y" : 19.433111541588371
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "id" : 5,
+        "code" : 0,
+        "Descrip" : "Casas de Cavildo",
+        "POINT_X" : -99.133756965700002,
+        "POINT_Y" : 19.431723460000001
+      },
+      "geometry" : {
+        "x" : -99.133756965688235,
+        "y" : 19.431723459996505
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "id" : 67,
+        "code" : 0,
+        "Descrip" : "Colegio de Stos",
+        "POINT_X" : -99.129704064400002,
+        "POINT_Y" : 19.431337469399999
+      },
+      "geometry" : {
+        "x" : -99.129704064355835,
+        "y" : 19.431337469393416
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "id" : 25,
+        "code" : 0,
+        "Descrip" : "Espiritu Santo",
+        "POINT_X" : -99.136496014399995,
+        "POINT_Y" : 19.433044735500001
+      },
+      "geometry" : {
+        "x" : -99.1364960143909,
+        "y" : 19.433044735522451
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "id" : 72,
+        "code" : 0,
+        "Descrip" : "Coiliceo",
+        "POINT_X" : -99.138225549200001,
+        "POINT_Y" : 19.4334158803
+      },
+      "geometry" : {
+        "x" : -99.13822554920857,
+        "y" : 19.433415880333111
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "id" : 39,
+        "code" : 0,
+        "Descrip" : "Capuchinas",
+        "POINT_X" : -99.135070818299994,
+        "POINT_Y" : 19.430706523200001
+      },
+      "geometry" : {
+        "x" : -99.135070818317971,
+        "y" : 19.430706523215296
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "id" : 42,
+        "code" : 0,
+        "Descrip" : "Santa Clara",
+        "POINT_X" : -99.137921210499997,
+        "POINT_Y" : 19.435583365999999
+      },
+      "geometry" : {
+        "x" : -99.13792121046383,
+        "y" : 19.435583366027359
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "id" : 21,
+        "code" : 0,
+        "Descrip" : "San Andres",
+        "POINT_X" : -99.139153411199999,
+        "POINT_Y" : 19.4364592678
+      },
+      "geometry" : {
+        "x" : -99.139153411235213,
+        "y" : 19.436459267780517
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "id" : 14,
+        "code" : 0,
+        "Descrip" : "San Francisco",
+        "POINT_X" : -99.140192616700006,
+        "POINT_Y" : 19.434343742399999
+      },
+      "geometry" : {
+        "x" : -99.14019261670505,
+        "y" : 19.434343742359761
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "id" : 47,
+        "code" : 0,
+        "Descrip" : "San Felipe Neri",
+        "POINT_X" : -99.138218126300004,
+        "POINT_Y" : 19.429355556099999
+      },
+      "geometry" : {
+        "x" : -99.138218126312353,
+        "y" : 19.429355556104493
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "id" : 51,
+        "code" : 0,
+        "Descrip" : "Hospital Real",
+        "POINT_X" : -99.141402548800002,
+        "POINT_Y" : 19.4315304647
+      },
+      "geometry" : {
+        "x" : -99.141402548787781,
+        "y" : 19.431530464694962
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "id" : 41,
+        "code" : 0,
+        "Descrip" : "Santa Catharina de Siena",
+        "POINT_X" : -99.129099098300003,
+        "POINT_Y" : 19.4344550858
+      },
+      "geometry" : {
+        "x" : -99.129099098314384,
+        "y" : 19.434455085802981
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "id" : 70,
+        "code" : 0,
+        "Descrip" : "Real Aduana",
+        "POINT_X" : -99.133330149200006,
+        "POINT_Y" : 19.437825080700001
+      },
+      "geometry" : {
+        "x" : -99.133330149155952,
+        "y" : 19.437825080683776
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "id" : 31,
+        "code" : 0,
+        "Descrip" : "San Geronimo",
+        "POINT_X" : -99.136403228199995,
+        "POINT_Y" : 19.426178556499998
+      },
+      "geometry" : {
+        "x" : -99.136403228188243,
+        "y" : 19.426178556525265
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "id" : 16,
+        "code" : 0,
+        "Descrip" : "San Agustin",
+        "POINT_X" : -99.136054352100004,
+        "POINT_Y" : 19.429979079399999
+      },
+      "geometry" : {
+        "x" : -99.136054352066211,
+        "y" : 19.429979079386424
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "id" : 36,
+        "code" : 0,
+        "Descrip" : "San Bernardo",
+        "POINT_X" : -99.132803123499997,
+        "POINT_Y" : 19.430298263899999
+      },
+      "geometry" : {
+        "x" : -99.132803123524852,
+        "y" : 19.430298263923586
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "id" : 76,
+        "code" : 0,
+        "Descrip" : "Cruz de Tola",
+        "POINT_X" : -99.132695491500002,
+        "POINT_Y" : 19.4347742703
+      },
+      "geometry" : {
+        "x" : -99.132695491529759,
+        "y" : 19.43477427034016
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "id" : 59,
+        "code" : 0,
+        "Descrip" : " ",
+        "POINT_X" : -99.128490420800006,
+        "POINT_Y" : 19.434425394200002
+      },
+      "geometry" : {
+        "x" : -99.128490420824917,
+        "y" : 19.434425394218103
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "id" : 69,
+        "code" : 0,
+        "Descrip" : "Caxones",
+        "POINT_X" : -99.133552836000007,
+        "POINT_Y" : 19.432577093100001
+      },
+      "geometry" : {
+        "x" : -99.133552836042355,
+        "y" : 19.43257709306102
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "id" : 49,
+        "code" : 0,
+        "Descrip" : "Colegio de las Ninas",
+        "POINT_X" : -99.139773223099994,
+        "POINT_Y" : 19.4316789226
+      },
+      "geometry" : {
+        "x" : -99.139773223069028,
+        "y" : 19.431678922619199
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "id" : 56,
+        "code" : 0,
+        "Descrip" : "Santa Maria la Redonda",
+        "POINT_X" : -99.141060080299994,
+        "POINT_Y" : 19.441245013100001
+      },
+      "geometry" : {
+        "x" : -99.141060080273235,
+        "y" : 19.441245013141117
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "id" : 61,
+        "code" : 0,
+        "Descrip" : "Santa Cruz Acatlan",
+        "POINT_X" : -99.132478238499999,
+        "POINT_Y" : 19.4209749087
+      },
+      "geometry" : {
+        "x" : -99.13247823852123,
+        "y" : 19.420974908726329
+      }
+    }
+  ]
+}
