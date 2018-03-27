@@ -19,5 +19,7 @@ Acequias1753.json
 
 Tracing of Acequia Real, Acqueduct from Chapultepec and other waterways in Mexico City from the Mapa Plano de la Muy Leal e Imperial Ciudad de Mexico of Jose Antonio de Villasenor y Sanchez, Mapoteca Orozco y Berra, Mexico City.
 
-Villasenor.png
-Georeferrenced Mapa Plano de la Muy Noble, Leal e Imperial Ciudad de Mexico, by Jose Antonio de Villasenor y Sanchez, 1753. The map is kept at the Mapoteca Manuel Orozco y Berra (908-OYB-725-A) in Mexico City. The map was included in the Supplement to the Theatro Americano.
+Villasenor.tif
+Villasenor.jp2
+
+Georectified Mapa Plano de la Muy Noble, Leal e Imperial Ciudad de Mexico, by Jose Antonio de Villasenor y Sanchez, 1753. The map is kept at the Mapoteca Manuel Orozco y Berra (908-OYB-725-A) in Mexico City. The map was included in the Supplement to the Theatro Americano. Two raster files are included, one in JPG2000 format and the second one in a compressed TIFF. 
