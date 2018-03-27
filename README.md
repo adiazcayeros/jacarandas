@@ -1,5 +1,7 @@
 # jacarandas
-Geocoded files of jacarandas and trees in historic center of Mexico City. Superimposed to the 1753 map of Villasenor y Sanchez.
+Geocoded files of jacarandas and trees in historic center of Mexico City. 
+
+Superimposed to the 1753 map of Villasenor y Sanchez. The geocoding was done by hand by Alberto Diaz-Cayeros, using ESRIs basemap updated March 15, 2018 (Spring). Tree cover is approximate since it is not always easy to identify individual trees in dense canopy. 
 
 jacarandas.json
 
